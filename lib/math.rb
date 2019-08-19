@@ -19,7 +19,7 @@ return prod
 end
 
 def modulo(num1, num2)
-quot = Remainder.num1 / num2
+quot = Math..num1 / num2
 return quot
 end
 
