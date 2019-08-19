@@ -23,6 +23,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-primenum = num.math.sqrt
-return primenum
+num = math.sqrt
+return num
 end
