@@ -19,7 +19,8 @@ return prod
 end
 
 def modulo(num1, num2)
-
+Float.quot = num1 / num2
+return Float.quot
 end
 
 def square_root(num)
